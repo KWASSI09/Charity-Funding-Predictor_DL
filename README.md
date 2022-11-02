@@ -1,4 +1,4 @@
-# Unit 21 Homework: Charity Funding Predictor
+# Unit 21: Charity Funding Predictor
 
 ## Background
 
